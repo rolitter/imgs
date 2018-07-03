@@ -1,2 +1,2 @@
 
-[demo](https://rolitter.github.io/imgs/#mobile)
+[demo](https://rolitter.github.io/imgs)
